@@ -14,7 +14,7 @@ import spring.pratice.moviedemodatabase.model.Movie;
 import spring.pratice.moviedemodatabase.repository.MovieRepository;
 
 @Service
-public class MovieService {
+public class MovieService{
 
 	@Autowired
 	MovieRepository movieRepository;
